@@ -7,6 +7,7 @@
 </p>
 
 <br/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -26,6 +27,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
 <br/>
+
 ### <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="20" style="border-radius:20px"> &nbsp; Connect with Me 
 
 <p align="left">
@@ -34,11 +36,13 @@
 </p>
 
 <br/>
+
 ### :eyes: &nbsp; Visitor's count
 
 ![](https://komarev.com/ghpvc/?username=Hiu12902&color=green&style=for-the-badge)&nbsp;
 
 <br/>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

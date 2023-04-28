@@ -6,17 +6,7 @@
     </a>
 </p>
 
-### &nbsp; Connect with Me <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="15" style="border-radius:15px">
-
-<p align="left">
-<a href="https://linkedin.com/in/Hieu129"><img src="https://img.shields.io/badge/-Hieu129-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/hieu.nguyen12902/"><img src="https://img.shields.io/badge/-hieu.nguyen12902-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
-
-### :eyes: &nbsp; Visitor's count
-
-![](https://komarev.com/ghpvc/?username=Hiu12902&color=green&style=for-the-badge)&nbsp;
-
+<br/>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -35,6 +25,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 
+<br/>
+### <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="20" style="border-radius:20px"> &nbsp; Connect with Me 
+
+<p align="left">
+<a href="https://linkedin.com/in/Hieu129"><img src="https://img.shields.io/badge/-Hieu129-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/hieu.nguyen12902/"><img src="https://img.shields.io/badge/-hieu.nguyen12902-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+<br/>
+### :eyes: &nbsp; Visitor's count
+
+![](https://komarev.com/ghpvc/?username=Hiu12902&color=green&style=for-the-badge)&nbsp;
+
+<br/>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

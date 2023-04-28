@@ -6,19 +6,16 @@
     </a>
 </p>
 
-### &nbsp; Connect with Me <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="35" style="border-radius:20px">
+### &nbsp; Connect with Me <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="15" style="border-radius:15px">
 
-<p align="center">
-<a href="https://linkedin.com/in/Hieu129"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/hieu.nguyen12902/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<p align="left">
+<a href="https://linkedin.com/in/Hieu129"><img src="https://img.shields.io/badge/-Hieu129-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/hieu.nguyen12902/"><img src="https://img.shields.io/badge/-hieu.nguyen12902-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+### :eyes: &nbsp; Visitor's count
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center">
-<a href="https://komarev.com/ghpvc/?username=Hiu12902&color=green&style=for-the-badge"></a>
-</p>
+![](https://komarev.com/ghpvc/?username=Hiu12902&color=green&style=for-the-badge)&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -43,6 +40,5 @@
 <p align="center">
 <a href="https://github.com/Hiu12902">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hiu12902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hiu12902&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

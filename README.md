@@ -1,6 +1,7 @@
-<h1 align="center"> Hi, I'm NGUYEN TRI HIEU <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="35" style="border-radius:20px"></h1>
+<h1 align="center"> Hi, I'm Nguyen Tri Hieu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<br><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></br>
+<br/>
+<!-- <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="35" style="border-radius:20px"> -->
 
 <p align="center">
     <a href="https://github.com/Hiu12902">
@@ -10,8 +11,7 @@
 
 
 <h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
+<p aligh="center">
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-hieunguyen129-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hieunguyen129/)](https://www.linkedin.com/in/hieunguyen129/)
 
@@ -23,12 +23,19 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
+<p align="center">
 
 ![](https://komarev.com/ghpvc/?username=Hiu12902&color=green&style=for-the-badge)
+
+</p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
+<p align="center">
+
 [![Hieu Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiu12902&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>

@@ -52,7 +52,7 @@ I have foundational knowledge of Data Structure and Algorithms, Computer Network
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Hiu12902">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hiu12902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>

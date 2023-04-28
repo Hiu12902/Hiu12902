@@ -6,7 +6,18 @@
     </a>
 </p>
 
+### <img href="https://cdn.dribbble.com/users/1787323/screenshots/6604852/lazycat_code-01_4x.png?compress=1&resize=400x300&vertical=top" width="20"/> About me:
+
+I am currently doing my major in Computer Science as a 3rd year student at Ho Chi Minh University of Technology (HCMUT).
+I’m open to any oppoturnity about Web Developer or Mobile Developer work with Internship position.
+
 <br/>
+
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif?cid=ecf05e47tzx4wfxtuqa4hn5jyj3vwhz40oubc4i36gyb1lix&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+</div>
+
+I have foundational knowledge of Data Structure and Algorithms, Computer Network, Linear Algebra, Probability and Statistics, and Designing. Here are some of programming languages and tools that i have exprerienced <img href="https://i.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.webp" width="20"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,10 +41,14 @@
 
 ### <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="20" style="border-radius:20px"> &nbsp; Connect with Me 
 
-<p align="left">
-<a href="https://linkedin.com/in/Hieu129"><img src="https://img.shields.io/badge/-Hieu129-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/hieu.nguyen12902/"><img src="https://img.shields.io/badge/-hieu.nguyen12902-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/Hieu129">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/hieu.nguyen12902/">
+    <img src="https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
 
 <br/>
 

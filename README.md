@@ -56,4 +56,7 @@ I have foundational knowledge of Data Structure and Algorithms, Computer Network
 <a href="https://github.com/Hiu12902">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hiu12902&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hiu12902)](https://git.io/streak-stats)
 </p>
+

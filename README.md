@@ -16,16 +16,15 @@
 </p>
 
 ### <img src="https://www.instantfundas.com/wp-content/uploads/2011/06/nyan-cat225255B425255D.gif" width="20" style="border-radius:20px"> About me:
-
 <h4>I am currently doing my major in Computer Science as a 3rd year student at Ho Chi Minh University of Technology (HCMUT).
 I’m open to any oppoturnity about Web Developer or Mobile Developer work with Internship position.
 <h4/>
 
 <h1 id="header" align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rz2kj0vzes2unqb38koh0k1rv21x9wr4m6qdnkh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477rz2kj0vzes2unqb38koh0k1rv21x9wr4m6qdnkh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600"/>
 </h1>
 
-I have foundational knowledge of Data Structure and Algorithms, Computer Network, Linear Algebra, Probability and Statistics, and Designing. Here are some of programming languages and tools that i have exprerienced <img href="https://i.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.webp" width="20"/>
+I have foundational knowledge of Data Structure and Algorithms, Computer Network, Linear Algebra, Probability and Statistics, and Designing. Here are some of programming languages and tools that i have exprerienced <img src="https://i.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.webp" width="20"/>
 
 ### 🛠 &nbsp;Tech Stack
 
